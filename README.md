@@ -18,3 +18,10 @@
 	input: text file containing DNA strings in FASTA format 
 
 	output: The ID of the string having the highest GC-content, followed by the GC-content of that string
+
+
+*pattern_match.py*
+
+	input: text file containing strings Pattern and Genome 
+
+	output: All starting positions in Genome where Pattern appears as a substring
